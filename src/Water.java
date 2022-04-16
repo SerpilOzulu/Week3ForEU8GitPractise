@@ -1,24 +1,10 @@
 public class Water {
     public static void main(String[] args) {
         // some things
+        //some other changes
     }
 }
-/*Git practice
-
-Create a new java project
-Go to VSC -> Enable Version Control
-Create a .gitignore file and add the main files for a java project
-	out, .idea, *.iml
-Create a new branch: develop
-
-Create a new branch: feature-a
-Checkout to feature-a
-	Create a class called Water
-		add some lines
-		commit those changes
-	Create a class called Food
-		add some lines
-		commit those changes
+/*
 	Push the changes to your origin feature-a branch
 
 Create a pull request to merge the feature-a changes to the develop branch
